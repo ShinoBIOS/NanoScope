@@ -1545,7 +1545,7 @@ void start_screen()
   spr.fillRect(0, 0, TFT_WIDTH_WR, TFT_HEIGHT_WR, BACK_COLOR);
   spr.setTextSize(2);
 
-  char fn[] = "Kirill lox";
+  char fn[] = "EchoSystem";
   uint16_t tw = tft.textWidth(fn) * 2;
 
   spr.setCursor((TFT_WIDTH_WR / 2) - (tw / 2), (TFT_HEIGHT_WR / 2) - 20);
@@ -1553,7 +1553,7 @@ void start_screen()
   spr.print(fn);
   spr.setTextSize(1);
 
-  char sn[] = "Entertainment";
+  char sn[] = "Company";
   uint16_t sw = spr.textWidth(sn);
 
   spr.setCursor((TFT_WIDTH_WR / 2) - (sw / 2), (TFT_HEIGHT_WR / 2) + 25);
