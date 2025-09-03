@@ -1,6 +1,6 @@
 # NanoScope — цифровой осциллограф на базе RP2040
 
-![NanoScope Banner](https://imgur.com/FSWc77b)
+![NanoScope Banner](https://imgur.com/FSWc77b.jpeg)
 
 **NanoScope** — компактный самодельный цифровой осциллограф на базе микроконтроллера RP2040. Предназначен для любителей, студентов и всех, кто работает с электроникой и хочет иметь простой инструмент для анализа сигналов.
 
@@ -118,10 +118,10 @@
 
 ## 📸 Фото устройства
 
-![NanoScope 1](https://imgur.com/ZfzNfFJ)
-![NanoScope 2](https://imgur.com/oZdfGQD)
-![NanoScope 3](https://imgur.com/FSWc77b)
-![NanoScope 3](https://imgur.com/vbOerSg)
+![NanoScope 1](https://imgur.com/ZfzNfFJ.jpeg)
+![NanoScope 2](https://imgur.com/oZdfGQD.jpeg)
+![NanoScope 3](https://imgur.com/FSWc77b.jpeg)
+![NanoScope 3](https://imgur.com/vbOerSg.jpeg)
 
 ---
 
