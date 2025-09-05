@@ -5,7 +5,7 @@
 **NanoScope** — компактный самодельный цифровой осциллограф на базе микроконтроллера RP2040. Предназначен для любителей, студентов и всех, кто работает с электроникой и хочет иметь простой инструмент для анализа сигналов.
 
 [![EasyEDA Проект](https://img.shields.io/badge/EasyEDA-Проект-0077B6?logo=EasyEDA)](https://oshwlab.com/biosshot/ad9283-osclilloscope-pro)
-[![GitHub Репозиторий](https://img.shields.io/badge/GitHub-Репозиторий-181717?logo=github)](https://github.com/ShinoBIOS/NanoScope)
+[![GitHub Репозиторий](https://img.shields.io/badge/GitHub-Репозиторий-181717?logo=github)](https://github.com/biosshot/NanoScope)
 
 ---
 
